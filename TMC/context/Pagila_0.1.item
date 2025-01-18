@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_JyIsgMhzEe-gCOGGeOnSUA" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_JyIsgchzEe-gCOGGeOnSUA" comment="" name="Pagila_Schema" prompt="Pagila_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value="public"/>
+  <contextParameter xmi:id="_JyIsgshzEe-gCOGGeOnSUA" comment="" name="Pagila_AdditionalParams" prompt="Pagila_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_JyIsg8hzEe-gCOGGeOnSUA" comment="" name="Pagila_Database" prompt="Pagila_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="Pagila"/>
+  <contextParameter xmi:id="_JyIshMhzEe-gCOGGeOnSUA" comment="" name="Pagila_Login" prompt="Pagila_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_JyIshchzEe-gCOGGeOnSUA" comment="" name="Pagila_Port" prompt="Pagila_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_JyIshshzEe-gCOGGeOnSUA" comment="" name="Pagila_Password" prompt="Pagila_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:RMRBdSCP8+nN/BrmHSiE1rBLsVkdn7eg3HGGuLgpU6w="/>
+  <contextParameter xmi:id="_JyIsh8hzEe-gCOGGeOnSUA" comment="" name="Pagila_Server" prompt="Pagila_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost"/>
+</talendfile:ContextType>

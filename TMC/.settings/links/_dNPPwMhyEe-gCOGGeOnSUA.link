@@ -1,0 +1,87 @@
+{
+  "itemId" : "_dNPPwMhyEe-gCOGGeOnSUA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Jx74MMhzEe-gCOGGeOnSUA",
+    "parameterList" : [ {
+      "id" : "_JyIsgchzEe-gCOGGeOnSUA",
+      "name" : "Pagila_Schema"
+    }, {
+      "id" : "_JyIsgshzEe-gCOGGeOnSUA",
+      "name" : "Pagila_AdditionalParams"
+    }, {
+      "id" : "_JyIsg8hzEe-gCOGGeOnSUA",
+      "name" : "Pagila_Database"
+    }, {
+      "id" : "_JyIshMhzEe-gCOGGeOnSUA",
+      "name" : "Pagila_Login"
+    }, {
+      "id" : "_JyIshchzEe-gCOGGeOnSUA",
+      "name" : "Pagila_Port"
+    }, {
+      "id" : "_JyIshshzEe-gCOGGeOnSUA",
+      "name" : "Pagila_Password"
+    }, {
+      "id" : "_JyIsh8hzEe-gCOGGeOnSUA",
+      "name" : "Pagila_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_9q1ksMiMEe-HNd6BGF63qQ",
+    "parameterList" : [ {
+      "id" : "_9q_8wsiMEe-HNd6BGF63qQ",
+      "name" : "Formation_jdbcUrlSuffix"
+    }, {
+      "id" : "_9q_8w8iMEe-HNd6BGF63qQ",
+      "name" : "Formation_warehouse"
+    }, {
+      "id" : "_9q_8x8iMEe-HNd6BGF63qQ",
+      "name" : "Formation_loginTimeout"
+    }, {
+      "id" : "_9q_8z8iMEe-HNd6BGF63qQ",
+      "name" : "Formation_oauthProperties_clientId"
+    }, {
+      "id" : "_9q_8yMiMEe-HNd6BGF63qQ",
+      "name" : "Formation_jdbcParameters"
+    }, {
+      "id" : "_9q_8y8iMEe-HNd6BGF63qQ",
+      "name" : "Formation_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_9q_8xciMEe-HNd6BGF63qQ",
+      "name" : "Formation_oauthProperties_clientSecret"
+    }, {
+      "id" : "_9q_8zciMEe-HNd6BGF63qQ",
+      "name" : "Formation_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_9q_80MiMEe-HNd6BGF63qQ",
+      "name" : "Formation_schemaName"
+    }, {
+      "id" : "_9q_8yciMEe-HNd6BGF63qQ",
+      "name" : "Formation_regionID"
+    }, {
+      "id" : "_9q_8ysiMEe-HNd6BGF63qQ",
+      "name" : "Formation_account"
+    }, {
+      "id" : "_9q_80ciMEe-HNd6BGF63qQ",
+      "name" : "Formation_userPassword_password"
+    }, {
+      "id" : "_9q_8zsiMEe-HNd6BGF63qQ",
+      "name" : "Formation_db"
+    }, {
+      "id" : "_9q_80siMEe-HNd6BGF63qQ",
+      "name" : "Formation_oauthProperties_scope"
+    }, {
+      "id" : "_9q_8zMiMEe-HNd6BGF63qQ",
+      "name" : "Formation_keyAlias"
+    }, {
+      "id" : "_9q_8xsiMEe-HNd6BGF63qQ",
+      "name" : "Formation_userPassword_userId"
+    }, {
+      "id" : "_9q_8wciMEe-HNd6BGF63qQ",
+      "name" : "Formation_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_9q_8xMiMEe-HNd6BGF63qQ",
+      "name" : "Formation_role"
+    } ]
+  } ]
+}

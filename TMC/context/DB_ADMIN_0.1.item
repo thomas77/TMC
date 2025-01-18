@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_dFvsYMiNEe-HNd6BGF63qQ" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_dFvsYciNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_oauthProperties_oauthTokenEndpoint" prompt="DB_ADMIN_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_dFvsYsiNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_oauthProperties_clientId" prompt="DB_ADMIN_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_dFvsY8iNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_userPassword_password" prompt="DB_ADMIN_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:qswEHqKiIjACyoREyrGgex8wGma8xzeAfHU2dWq4GqZPh9291vcNLoj50K8="/>
+  <contextParameter xmi:id="_dFvsZMiNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_warehouse" prompt="DB_ADMIN_warehouse?" promptNeeded="false" repositoryContextId="" type="id_String" value="ETL_WH"/>
+  <contextParameter xmi:id="_dFvsZciNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_role" prompt="DB_ADMIN_role?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_dFvsZsiNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_schemaName" prompt="DB_ADMIN_schemaName?" promptNeeded="false" repositoryContextId="" type="id_String" value="SCH_PILOTAGE"/>
+  <contextParameter xmi:id="_dFvsZ8iNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_jdbcParameters" prompt="DB_ADMIN_jdbcParameters?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_dFvsaMiNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_oauthProperties_oauthPassword" prompt="DB_ADMIN_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_dFvsaciNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_db" prompt="DB_ADMIN_db?" promptNeeded="false" repositoryContextId="" type="id_String" value="DB_ADMIN"/>
+  <contextParameter xmi:id="_dFvsasiNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_regionID" prompt="DB_ADMIN_regionID?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_dFvsa8iNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_jdbcUrlSuffix" prompt="DB_ADMIN_jdbcUrlSuffix?" promptNeeded="false" repositoryContextId="" type="id_String" value=".snowflakecomputing.com"/>
+  <contextParameter xmi:id="_dFvsbMiNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_userPassword_userId" prompt="DB_ADMIN_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="TLETELLIER"/>
+  <contextParameter xmi:id="_dFvsbciNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_account" prompt="DB_ADMIN_account?" promptNeeded="false" repositoryContextId="" type="id_String" value="https://ys55296.eu-west-3.aws"/>
+  <contextParameter xmi:id="_dFvsbsiNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_keyAlias" prompt="DB_ADMIN_keyAlias?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_dFvsb8iNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_oauthProperties_clientSecret" prompt="DB_ADMIN_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_dFvscMiNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_oauthProperties_oauthUserName" prompt="DB_ADMIN_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_dFvscciNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_oauthProperties_scope" prompt="DB_ADMIN_oauthProperties_scope?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_dFvscsiNEe-HNd6BGF63qQ" comment="" name="DB_ADMIN_loginTimeout" prompt="DB_ADMIN_loginTimeout?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="15"/>
+</talendfile:ContextType>

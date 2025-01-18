@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_9q_8wMiMEe-HNd6BGF63qQ" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_9q_8wciMEe-HNd6BGF63qQ" comment="" name="Formation_oauthProperties_oauthUserName" prompt="Formation_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_9q_8wsiMEe-HNd6BGF63qQ" comment="" name="Formation_jdbcUrlSuffix" prompt="Formation_jdbcUrlSuffix?" promptNeeded="false" repositoryContextId="" type="id_String" value=".snowflakecomputing.com"/>
+  <contextParameter xmi:id="_9q_8w8iMEe-HNd6BGF63qQ" comment="" name="Formation_warehouse" prompt="Formation_warehouse?" promptNeeded="false" repositoryContextId="" type="id_String" value="ETL_WH"/>
+  <contextParameter xmi:id="_9q_8xMiMEe-HNd6BGF63qQ" comment="" name="Formation_role" prompt="Formation_role?" promptNeeded="false" repositoryContextId="" type="id_String" value="SYSADMIN"/>
+  <contextParameter xmi:id="_9q_8xciMEe-HNd6BGF63qQ" comment="" name="Formation_oauthProperties_clientSecret" prompt="Formation_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_9q_8xsiMEe-HNd6BGF63qQ" comment="" name="Formation_userPassword_userId" prompt="Formation_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="TLETELLIER"/>
+  <contextParameter xmi:id="_9q_8x8iMEe-HNd6BGF63qQ" comment="" name="Formation_loginTimeout" prompt="Formation_loginTimeout?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_9q_8yMiMEe-HNd6BGF63qQ" comment="" name="Formation_jdbcParameters" prompt="Formation_jdbcParameters?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_9q_8yciMEe-HNd6BGF63qQ" comment="" name="Formation_regionID" prompt="Formation_regionID?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_9q_8ysiMEe-HNd6BGF63qQ" comment="" name="Formation_account" prompt="Formation_account?" promptNeeded="false" repositoryContextId="" type="id_String" value="https://ys55296.eu-west-3.aws"/>
+  <contextParameter xmi:id="_9q_8y8iMEe-HNd6BGF63qQ" comment="" name="Formation_oauthProperties_oauthTokenEndpoint" prompt="Formation_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_9q_8zMiMEe-HNd6BGF63qQ" comment="" name="Formation_keyAlias" prompt="Formation_keyAlias?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_9q_8zciMEe-HNd6BGF63qQ" comment="" name="Formation_oauthProperties_oauthPassword" prompt="Formation_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_9q_8zsiMEe-HNd6BGF63qQ" comment="" name="Formation_db" prompt="Formation_db?" promptNeeded="false" repositoryContextId="" type="id_String" value="DB_FORMATION"/>
+  <contextParameter xmi:id="_9q_8z8iMEe-HNd6BGF63qQ" comment="" name="Formation_oauthProperties_clientId" prompt="Formation_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_9q_80MiMEe-HNd6BGF63qQ" comment="" name="Formation_schemaName" prompt="Formation_schemaName?" promptNeeded="false" repositoryContextId="" type="id_String" value="SCH_RAW"/>
+  <contextParameter xmi:id="_9q_80ciMEe-HNd6BGF63qQ" comment="" name="Formation_userPassword_password" prompt="Formation_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:yFjIksS2qlPM9Cq8d1eY93VQVQBxadgB11mrPMQcnuC+V22lAxwcoMfL8DU="/>
+  <contextParameter xmi:id="_9q_80siMEe-HNd6BGF63qQ" comment="" name="Formation_oauthProperties_scope" prompt="Formation_oauthProperties_scope?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+</talendfile:ContextType>
